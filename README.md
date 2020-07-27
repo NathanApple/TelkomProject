@@ -1,2 +1,2 @@
 # TelkomProject
-Aplikasi 
+Aplikasi Kasir Sembako
